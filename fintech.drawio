@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T06:28:53.679Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="9CJ1bYk_VQCYfQzv2-59" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-01T06:33:04.442Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ctdF_mWxIcBGMaxKk-ra" version="12.9.6" type="github">
   <diagram id="kCpKwJVJHfybIE9ixX9i" name="Page-1">
     <mxGraphModel dx="818" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
         <mxCell id="SZwGPWXOhueTDgwkdfKL-74" value="陆金所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="635.5" y="410" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WDAiJp-4TPZIHqZEOYhD-1" value="分布式存储服务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="WDAiJp-4TPZIHqZEOYhD-1" value="分布式存储服务（存证记录）" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="156" y="900" width="623.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WDAiJp-4TPZIHqZEOYhD-2" value="" style="endArrow=classic;html=1;exitX=0.985;exitY=0.405;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SZwGPWXOhueTDgwkdfKL-72" target="WDAiJp-4TPZIHqZEOYhD-3">
