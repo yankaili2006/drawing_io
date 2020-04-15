@@ -1,151 +1,202 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T02:16:41.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="uVpJngEMKnzZEaDofRsL" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-15T02:59:54.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="PCLZMt3v_qzPmMGloLKK" version="12.9.11" type="github">
   <diagram id="OBpz-HxGuRN2mtiWmTwj" name="Page-1">
-    <mxGraphModel dx="1712" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="885" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-1" value="DS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-8" value="DS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1121" width="59" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-2" value="TM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-9" value="TM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="941" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-3" value="ES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="400" width="60" height="60" as="geometry" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-10" value="ES1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="1126" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-4" value="ES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="400" width="60" height="60" as="geometry" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-11" value="ESB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="1126" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-5" value="ES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="400" width="60" height="60" as="geometry" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-12" value="ES2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="566.5" y="1126" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-6" value="ES" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="400" width="60" height="60" as="geometry" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-13" value="ESA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="1126" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-7" value="DS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-14" value="DS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="1121" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-9" value="Datamarket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-15" value="Datamarket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203.5" y="701" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-1" target="ubIFbfM6RXI0TAhfLppu-9" edge="1">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-8" target="FTIpeuj2QPUnfpNJJs1q-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="310" as="sourcePoint" />
-            <mxPoint x="410" y="260" as="targetPoint" />
+            <mxPoint x="322.5" y="881" as="sourcePoint" />
+            <mxPoint x="372.5" y="831" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-15" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-2" target="ubIFbfM6RXI0TAhfLppu-3" edge="1">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-17" value="Seller" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="114.5" y="1261" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-17" target="FTIpeuj2QPUnfpNJJs1q-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="300" as="sourcePoint" />
-            <mxPoint x="410" y="250" as="targetPoint" />
+            <mxPoint x="162.5" y="951" as="sourcePoint" />
+            <mxPoint x="212.5" y="901" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-34" value="3&#39;.收到任务配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ubIFbfM6RXI0TAhfLppu-15" vertex="1" connectable="0">
-          <mxGeometry x="-0.063" y="1" relative="1" as="geometry">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-49" value="&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%225%E2%80%99.%E6%9F%A5%E7%9C%8B%E7%BB%93%E6%9E%9C%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22227%22%20y%3D%221227%22%20as%3D%22geometry%22%3E%3CmxPoint%20as%3D%22offset%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E查&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FTIpeuj2QPUnfpNJJs1q-18">
+          <mxGeometry x="0.2182" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-50" value="7.查看运行记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FTIpeuj2QPUnfpNJJs1q-18">
+          <mxGeometry x="0.1091" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-20" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-9" target="FTIpeuj2QPUnfpNJJs1q-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="456.5" y="971" as="sourcePoint" />
+            <mxPoint x="506.5" y="921" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-21" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-9" target="FTIpeuj2QPUnfpNJJs1q-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="456.5" y="971" as="sourcePoint" />
+            <mxPoint x="506.5" y="921" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-47" value="5&#39;.收到任务配置，计算任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FTIpeuj2QPUnfpNJJs1q-21">
+          <mxGeometry x="0.1344" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-2" target="ubIFbfM6RXI0TAhfLppu-4" edge="1">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-22" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-9" target="FTIpeuj2QPUnfpNJJs1q-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="300" as="sourcePoint" />
-            <mxPoint x="410" y="250" as="targetPoint" />
+            <mxPoint x="456.5" y="971" as="sourcePoint" />
+            <mxPoint x="506.5" y="921" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-17" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-2" target="ubIFbfM6RXI0TAhfLppu-5" edge="1">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-23" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-9" target="FTIpeuj2QPUnfpNJJs1q-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="300" as="sourcePoint" />
-            <mxPoint x="410" y="250" as="targetPoint" />
+            <mxPoint x="456.5" y="971" as="sourcePoint" />
+            <mxPoint x="506.5" y="921" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-18" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-2" target="ubIFbfM6RXI0TAhfLppu-6" edge="1">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-24" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-14" target="FTIpeuj2QPUnfpNJJs1q-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="300" as="sourcePoint" />
-            <mxPoint x="410" y="250" as="targetPoint" />
+            <mxPoint x="552.5" y="841" as="sourcePoint" />
+            <mxPoint x="372.5" y="821" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-20" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-9" target="ubIFbfM6RXI0TAhfLppu-2" edge="1">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-25" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-40" target="FTIpeuj2QPUnfpNJJs1q-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="300" as="sourcePoint" />
-            <mxPoint x="410" y="250" as="targetPoint" />
+            <mxPoint x="322.5" y="871" as="sourcePoint" />
+            <mxPoint x="372.5" y="821" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-32" value="2.提交任务给TM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ubIFbfM6RXI0TAhfLppu-20" vertex="1" connectable="0">
-          <mxGeometry x="-0.125" y="-1" relative="1" as="geometry">
-            <mxPoint x="-49" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-21" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-1" target="ubIFbfM6RXI0TAhfLppu-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="300" as="sourcePoint" />
-            <mxPoint x="410" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-33" value="3.收到任务配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ubIFbfM6RXI0TAhfLppu-21" vertex="1" connectable="0">
-          <mxGeometry x="-0.0321" relative="1" as="geometry">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-45" value="4.任务提交到TM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FTIpeuj2QPUnfpNJJs1q-25">
+          <mxGeometry x="-0.2889" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-22" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-7" target="ubIFbfM6RXI0TAhfLppu-2" edge="1">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-26" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="300" as="sourcePoint" />
-            <mxPoint x="410" y="250" as="targetPoint" />
+            <mxPoint x="322.5" y="871" as="sourcePoint" />
+            <mxPoint x="418.5" y="1001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-23" value="Buyer" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="405" y="-60" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-25" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-23" target="ubIFbfM6RXI0TAhfLppu-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="150" as="sourcePoint" />
-            <mxPoint x="410" y="100" as="targetPoint" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-46" value="5.收到任务配置，计算任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FTIpeuj2QPUnfpNJJs1q-26">
+          <mxGeometry x="-0.0183" y="3" relative="1" as="geometry">
+            <mxPoint x="38.73" y="-14.84" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-28" value="1.选择数据和kernel&lt;br&gt;5.查看计算结果和费用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ubIFbfM6RXI0TAhfLppu-25" vertex="1" connectable="0">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-27" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-14" target="FTIpeuj2QPUnfpNJJs1q-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322.5" y="871" as="sourcePoint" />
+            <mxPoint x="372.5" y="821" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-28" value="Buyer" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="248.5" y="561" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-29" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-28" target="FTIpeuj2QPUnfpNJJs1q-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203.5" y="861" as="sourcePoint" />
+            <mxPoint x="253.5" y="811" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-30" value="1.选择数据和kernel&lt;br&gt;6.查看运行结果和费用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FTIpeuj2QPUnfpNJJs1q-29">
           <mxGeometry x="-0.1042" relative="1" as="geometry">
             <mxPoint x="-50" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-36" value="4.获取任务执行状态，进行计费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ubIFbfM6RXI0TAhfLppu-25" vertex="1" connectable="0">
-          <mxGeometry x="-0.2333" y="3" relative="1" as="geometry">
-            <mxPoint x="127" y="161.67000000000002" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-35" value="4‘.获取计算结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="300" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-37" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-2" target="ubIFbfM6RXI0TAhfLppu-9" edge="1">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-31" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-9" target="FTIpeuj2QPUnfpNJJs1q-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="250" as="sourcePoint" />
-            <mxPoint x="430" y="200" as="targetPoint" />
+            <mxPoint x="342.5" y="821" as="sourcePoint" />
+            <mxPoint x="392.5" y="771" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-38" value="Buyer" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="827" y="320" width="30" height="60" as="geometry" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-32" value="Buyer" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="214" y="1261" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ubIFbfM6RXI0TAhfLppu-39" value="5’.查看结果" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ubIFbfM6RXI0TAhfLppu-38" target="ubIFbfM6RXI0TAhfLppu-7" edge="1">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-33" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-32" target="FTIpeuj2QPUnfpNJJs1q-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="280" as="sourcePoint" />
-            <mxPoint x="430" y="230" as="targetPoint" />
+            <mxPoint x="-77.5" y="821" as="sourcePoint" />
+            <mxPoint x="-27.5" y="771" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTIpeuj2QPUnfpNJJs1q-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ubIFbfM6RXI0TAhfLppu-7" target="ubIFbfM6RXI0TAhfLppu-9">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-48" value="6’.查看结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FTIpeuj2QPUnfpNJJs1q-33">
+          <mxGeometry x="0.1636" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-34" value="datamarket数据目录和kernel的管理和权限服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="851" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-35" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-15" target="FTIpeuj2QPUnfpNJJs1q-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="260" as="sourcePoint" />
-            <mxPoint x="480" y="210" as="targetPoint" />
+            <mxPoint x="288.5" y="916" as="sourcePoint" />
+            <mxPoint x="338.5" y="866" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTIpeuj2QPUnfpNJJs1q-2" value="Seller" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-34" y="320" width="30" height="60" as="geometry" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-51" value="2.校验数据和kernel权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FTIpeuj2QPUnfpNJJs1q-35">
+          <mxGeometry x="-0.022" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="FTIpeuj2QPUnfpNJJs1q-4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-2" target="ubIFbfM6RXI0TAhfLppu-1">
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-37" value="Jupyter开发环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="701" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-39" target="FTIpeuj2QPUnfpNJJs1q-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-39" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="403.5" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-40" value="datamarket任务管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="839" width="120" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-41" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-15" target="FTIpeuj2QPUnfpNJJs1q-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="230" as="sourcePoint" />
-            <mxPoint x="360" y="180" as="targetPoint" />
+            <mxPoint x="428.5" y="916" as="sourcePoint" />
+            <mxPoint x="478.5" y="866" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FTIpeuj2QPUnfpNJJs1q-7" value="5&#39;&#39;.查看运行记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FTIpeuj2QPUnfpNJJs1q-4">
-          <mxGeometry x="-0.1467" relative="1" as="geometry">
-            <mxPoint x="11" as="offset" />
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-44" value="3.发起任务请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FTIpeuj2QPUnfpNJJs1q-41">
+          <mxGeometry x="0.0567" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-42" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-37" target="FTIpeuj2QPUnfpNJJs1q-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="428.5" y="916" as="sourcePoint" />
+            <mxPoint x="478.5" y="866" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FTIpeuj2QPUnfpNJJs1q-43" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FTIpeuj2QPUnfpNJJs1q-37" target="FTIpeuj2QPUnfpNJJs1q-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.5" y="786" as="sourcePoint" />
+            <mxPoint x="458.5" y="866" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
