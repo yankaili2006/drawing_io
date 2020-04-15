@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-15T02:47:39.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="mXZQ-u_4RzFlIizRKrst" version="12.9.11" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-15T02:48:36.167Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="3p_HV90uB7BKVgj3mK8E" version="12.9.11" type="github">
   <diagram id="OBpz-HxGuRN2mtiWmTwj" name="Page-1">
     <mxGraphModel dx="885" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,7 +125,7 @@
             <mxPoint x="10" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="01qpAVNiIotyaC1VNr4l-2" value="数据目录和kernel的管理和权限服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="01qpAVNiIotyaC1VNr4l-2" value="DM数据目录和kernel的管理和权限服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="01qpAVNiIotyaC1VNr4l-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ubIFbfM6RXI0TAhfLppu-9" target="01qpAVNiIotyaC1VNr4l-2">
@@ -148,7 +148,7 @@
         <mxCell id="01qpAVNiIotyaC1VNr4l-6" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="441" y="-11" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="01qpAVNiIotyaC1VNr4l-8" value="任务管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="01qpAVNiIotyaC1VNr4l-8" value="DM任务管理服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="396" y="268" width="120" height="57" as="geometry" />
         </mxCell>
         <mxCell id="01qpAVNiIotyaC1VNr4l-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ubIFbfM6RXI0TAhfLppu-9" target="01qpAVNiIotyaC1VNr4l-8">
