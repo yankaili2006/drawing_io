@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-22T02:21:39.239Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="73sNivn9aMrHSYZizbu5" version="13.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-22T02:23:07.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="oKvvtPrOEKKJL9uivHOa" version="13.0.0" type="github">
   <diagram id="kCpKwJVJHfybIE9ixX9i" name="Page-1">
-    <mxGraphModel dx="1952" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,9 +56,9 @@
             <mxPoint x="595" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SZwGPWXOhueTDgwkdfKL-77" value="5&#39;.输出因子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="SZwGPWXOhueTDgwkdfKL-17" vertex="1" connectable="0">
+        <mxCell id="SZwGPWXOhueTDgwkdfKL-77" value="5&#39;.通过gRPC获取输出因子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="SZwGPWXOhueTDgwkdfKL-17" vertex="1" connectable="0">
           <mxGeometry x="-0.056" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-8.79" y="20.78" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SZwGPWXOhueTDgwkdfKL-22" value="存证模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
@@ -224,7 +224,7 @@
         </mxCell>
         <mxCell id="HyGqtzqtbX2Nl6VqGr-e-3" value="5.通过gRPC获取输出因子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="HyGqtzqtbX2Nl6VqGr-e-2" vertex="1" connectable="0">
           <mxGeometry x="-0.056" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-19.29" y="-6.01" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SZwGPWXOhueTDgwkdfKL-45" value="银行数据节点DS2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -270,7 +270,7 @@
             <mxPoint x="747.73" y="458.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BUfUKCFpLpPubceJvn2R-13" value="5&#39;.输出因子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="BUfUKCFpLpPubceJvn2R-12" vertex="1" connectable="0">
+        <mxCell id="BUfUKCFpLpPubceJvn2R-13" value="5&#39;.通过gRPC获取输出因子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="BUfUKCFpLpPubceJvn2R-12" vertex="1" connectable="0">
           <mxGeometry x="-0.056" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -281,9 +281,9 @@
             <mxPoint x="747.73" y="458.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BUfUKCFpLpPubceJvn2R-15" value="5&#39;.输出因子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="BUfUKCFpLpPubceJvn2R-14" vertex="1" connectable="0">
+        <mxCell id="BUfUKCFpLpPubceJvn2R-15" value="5&#39;.通过gRPC获取输出因子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="BUfUKCFpLpPubceJvn2R-14" vertex="1" connectable="0">
           <mxGeometry x="-0.056" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-34.1" y="4.59" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BUfUKCFpLpPubceJvn2R-17" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="SZwGPWXOhueTDgwkdfKL-53" target="SZwGPWXOhueTDgwkdfKL-1" edge="1">
@@ -303,7 +303,7 @@
             <mxPoint x="210" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PdvxIYomY9WsL29uVKm9-7" value="&lt;span&gt;&amp;nbsp;3&#39;.发送计算因子&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BUfUKCFpLpPubceJvn2R-18" vertex="1" connectable="0">
+        <mxCell id="PdvxIYomY9WsL29uVKm9-7" value="&lt;span&gt;&amp;nbsp;3&#39;.&lt;/span&gt;通过gRPC发送计算因子" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BUfUKCFpLpPubceJvn2R-18" vertex="1" connectable="0">
           <mxGeometry x="0.0392" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -314,15 +314,20 @@
             <mxPoint x="210" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PdvxIYomY9WsL29uVKm9-5" value="3&#39;.计算因子" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BUfUKCFpLpPubceJvn2R-19" vertex="1" connectable="0">
+        <mxCell id="PdvxIYomY9WsL29uVKm9-5" value="3&#39;.通过gRPC发送计算因子" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BUfUKCFpLpPubceJvn2R-19" vertex="1" connectable="0">
           <mxGeometry x="-0.191" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="38.4" y="2.86" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BUfUKCFpLpPubceJvn2R-20" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="SZwGPWXOhueTDgwkdfKL-9" target="SZwGPWXOhueTDgwkdfKL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="82.75" y="676.5" as="sourcePoint" />
             <mxPoint x="180" y="560.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYCMwRL4GQBrTtSRKgSb-1" value="3&#39;.通过gRPC发送计算因子" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BUfUKCFpLpPubceJvn2R-20">
+          <mxGeometry x="0.166" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BUfUKCFpLpPubceJvn2R-22" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SZwGPWXOhueTDgwkdfKL-53" target="SZwGPWXOhueTDgwkdfKL-11" edge="1">
