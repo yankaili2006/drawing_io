@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T08:02:22.720Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="yhSspve5-IzHRVvcBYxO" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-23T08:04:06.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="3xEDe28icX7Y6oycIo23" version="13.0.1" type="github">
   <diagram id="IDo3e-sVRfWPB8tgrpqy" name="Page-1">
     <mxGraphModel dx="1426" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,8 +71,8 @@
             <mxPoint x="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-39" value="company.project/module/branch-tag-vA.B.C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1127" y="320" width="250" height="20" as="geometry" />
+        <mxCell id="VchNmsLGofExgvG7CdDW-39" value="company.project/module/branch-tag-vA.B.C.D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="320" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-40" value="tsingj.privpy/es/dev-build20200424-v1.0.0.tgz&lt;br&gt;tsingj.privpy/tc/dev-build20200424-v1.0.0.tgz&lt;br&gt;tsingj.privpy/ds/dev-build0424-v1.0.0.tgz&lt;br&gt;tsingj.console/tm-service/dev-build0424-v1.0.1.tgz&lt;br&gt;tsingj.console/miniws/dev-build0424-v1.0.1.tgz&lt;br&gt;tsingj.datamarket/backend/dev-build0424-v1.0.1.tgz" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1133" y="380" width="290" height="90" as="geometry" />
@@ -184,7 +184,7 @@
             <mxPoint x="489" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-76" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;master版本发布vA.B.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-76" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;master版本发布vA.B.X.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="657" y="558" as="sourcePoint" />
             <Array as="points">
@@ -194,7 +194,7 @@
             <mxPoint x="657" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-77" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;product版本发布vA.X.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-77" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;product版本发布vA.X.X.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="845" y="677" as="sourcePoint" />
             <Array as="points">
@@ -204,7 +204,7 @@
             <mxPoint x="845" y="707" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-78" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;product版本发布vX.X.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-78" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;product版本发布vX.X.X.X&lt;br&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="845" y="818" as="sourcePoint" />
             <Array as="points">
@@ -214,7 +214,7 @@
             <mxPoint x="845" y="848" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-81" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;dev版本发布vA.B.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fillColor=#00CC00;" edge="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-81" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;dev版本发布vA.B.C.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fillColor=#00CC00;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="420" as="sourcePoint" />
             <Array as="points">
