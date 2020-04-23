@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T09:49:41.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="GYDnlDxUNqsRL7mRlk8J" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-23T09:57:55.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="RkRYRRPrJT0qzO5ZHzsu" version="13.0.1" type="github">
   <diagram id="IDo3e-sVRfWPB8tgrpqy" name="Page-1">
     <mxGraphModel dx="1188" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,11 +51,11 @@
             <mxPoint x="490" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-39" value="company.project/module/MA.B.C-DX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="315" width="210" height="20" as="geometry" />
+        <mxCell id="VchNmsLGofExgvG7CdDW-39" value="company.project/module/MA.B.C-DXXX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="360" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-40" value="tsingj.privpy/es/M1.0.1-D001.tgz&lt;br&gt;tsingj.privpy/es/M1.0.tgz&lt;br&gt;tsingj.privpy/es/M1.0.1.tgz&lt;br&gt;tsingj.privpy/es/M1.0.1-B001.tgz&lt;br&gt;tsingj.privpy/es/dev-latest.tgz&lt;br&gt;tsingj.privpy/es/master-latest.tgz&lt;br&gt;tsingj.privpy/tc/M1.0.1-D001.tgz&lt;br&gt;tsingj.privpy/ds/M1.0.1-D001.tgz&lt;br&gt;tsingj.console/tm-service/M1.0.1-D001.tgz&lt;br&gt;tsingj.console/miniws/M1.0.1-D001.tgz&lt;br&gt;tsingj.datamarket/backend/M1.0.1-D001.tgz" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="345" width="250" height="160" as="geometry" />
+          <mxGeometry x="1008" y="390" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-41" value="bugfix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="332" y="561.5" width="50" height="20" as="geometry" />
@@ -74,13 +74,14 @@
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-50" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VchNmsLGofExgvG7CdDW-49">
           <mxGeometry x="0.1067" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4.33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-51" value="push" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0533" relative="1" as="geometry">
             <mxPoint x="320" y="400" as="sourcePoint" />
             <mxPoint x="489" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-55" value="Bugfix" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
@@ -106,8 +107,8 @@
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-60" value="" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;endFill=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="694" as="sourcePoint" />
-            <mxPoint x="855" y="694" as="targetPoint" />
+            <mxPoint x="660" y="685" as="sourcePoint" />
+            <mxPoint x="855" y="685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-61" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VchNmsLGofExgvG7CdDW-60">
@@ -117,8 +118,8 @@
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-62" value="push" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="855" y="725" as="sourcePoint" />
-            <mxPoint x="660" y="725" as="targetPoint" />
+            <mxPoint x="855" y="716" as="sourcePoint" />
+            <mxPoint x="660" y="716" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-63" value="" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;endFill=1;dashed=1;" edge="1" parent="1">
@@ -168,14 +169,14 @@
             <mxPoint x="657" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-78" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;product版本发布&lt;br&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-78" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;master版本发布&lt;br&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="755" as="sourcePoint" />
+            <mxPoint x="660" y="746" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="700" y="755" />
-              <mxPoint x="700" y="785" />
+              <mxPoint x="700" y="746" />
+              <mxPoint x="700" y="776" />
             </Array>
-            <mxPoint x="660" y="785" as="targetPoint" />
+            <mxPoint x="660" y="776" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-81" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;dev版本发布&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fillColor=#00CC00;" edge="1" parent="1">
@@ -189,7 +190,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-82" value="tsingj.privpy/es:M1.0.1-D001&lt;br&gt;tsingj.privpy/es:M1.0&lt;br&gt;tsingj.privpy/es:M1.0.1&lt;br&gt;tsingj.privpy/es:dev-latest&lt;br&gt;tsingj.privpy/es:master-latest&lt;br&gt;tsingj.console/tm-service:M1.0.1-D001&lt;br&gt;tsingj.datamarket/backend:M1.0.1-D001" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="521.5" width="230" height="100" as="geometry" />
+          <mxGeometry x="1008" y="566.5" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VchNmsLGofExgvG7CdDW-92" value=":日常开发" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="960" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VchNmsLGofExgvG7CdDW-95" value="" style="shape=rect;html=1;fillColor=#eeeeee;" vertex="1" parent="VchNmsLGofExgvG7CdDW-92">
+          <mxGeometry x="40" y="140" width="20" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="VchNmsLGofExgvG7CdDW-93" value=":预发环境" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="522" y="960" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VchNmsLGofExgvG7CdDW-102" value="" style="shape=rect;html=1;fillColor=#eeeeee;" vertex="1" parent="VchNmsLGofExgvG7CdDW-93">
+          <mxGeometry x="40" y="140" width="20" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="VchNmsLGofExgvG7CdDW-94" value=":生产环境" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="960" width="97" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VchNmsLGofExgvG7CdDW-98" value="交付" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="VchNmsLGofExgvG7CdDW-94">
+          <mxGeometry x="58.5" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VchNmsLGofExgvG7CdDW-103" value="" style="shape=rect;html=1;fillColor=#eeeeee;" vertex="1" parent="VchNmsLGofExgvG7CdDW-94">
+          <mxGeometry x="38.5" y="138.5" width="20" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="VchNmsLGofExgvG7CdDW-97" value="测试人员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="592" y="1110" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VchNmsLGofExgvG7CdDW-96" value="配置管理员&lt;br&gt;master1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="1106.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
