@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T08:28:30.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="x7m60UtwNtAnQ8WEr_9r" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-23T08:28:52.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="BScoyynbRJzdWDUsBOHw" version="13.0.1" type="github">
   <diagram id="IDo3e-sVRfWPB8tgrpqy" name="Page-1">
     <mxGraphModel dx="1188" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
         <mxCell id="VchNmsLGofExgvG7CdDW-39" value="company.project/module/P1.000-M1.000-D1.000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1133" y="320" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-40" value="tsingj.privpy/es/P1.001-M1.001-D1.001.tgz&lt;br&gt;tsingj.privpy/es/P1.001-M1.001.tgz&lt;br&gt;tsingj.privpy/es/P1.001.tgz&lt;br&gt;tsingj.privpy/es/dev-latest.tgz&lt;br&gt;tsingj.privpy/tc/P1.001-M1.001-D1.001.tgz&lt;br&gt;tsingj.privpy/ds/P1.001-M1.001-D1.001.tgz&lt;br&gt;tsingj.console/tm-service/P1.001-M1.001-D1.001.tgz&lt;br&gt;tsingj.console/miniws/P1.001-M1.001-D1.001.tgz&lt;br&gt;tsingj.datamarket/backend/P1.001-M1.001-D1.001.tgz" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-40" value="tsingj.privpy/es/P1.001-M1.001-D1.001.tgz&lt;br&gt;tsingj.privpy/es/P1.001-M1.001.tgz&lt;br&gt;tsingj.privpy/es/P1.001.tgz&lt;br&gt;tsingj.privpy/es/master-latest.tgz&lt;br&gt;tsingj.privpy/tc/P1.001-M1.001-D1.001.tgz&lt;br&gt;tsingj.privpy/ds/P1.001-M1.001-D1.001.tgz&lt;br&gt;tsingj.console/tm-service/P1.001-M1.001-D1.001.tgz&lt;br&gt;tsingj.console/miniws/P1.001-M1.001-D1.001.tgz&lt;br&gt;tsingj.datamarket/backend/P1.001-M1.001-D1.001.tgz" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1133" y="360" width="300" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-41" value="bugfix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -224,7 +224,7 @@
             <mxPoint x="490" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-82" value="tsingj.privpy/es:P1.001-M1.001-D1.001&lt;br&gt;tsingj.privpy/es:P1.001-M1.001&lt;br&gt;tsingj.privpy/es:P1.001&lt;br&gt;tsingj.privpy/es:dev-latest&lt;br&gt;tsingj.console/tm-service:P1.001-M1.001-D1.001&lt;br&gt;tsingj.datamarket/backend:P1.001-M1.001-D1.001" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-82" value="tsingj.privpy/es:P1.001-M1.001-D1.001&lt;br&gt;tsingj.privpy/es:P1.001-M1.001&lt;br&gt;tsingj.privpy/es:P1.001&lt;br&gt;tsingj.privpy/es:master-latest&lt;br&gt;tsingj.console/tm-service:P1.001-M1.001-D1.001&lt;br&gt;tsingj.datamarket/backend:P1.001-M1.001-D1.001" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1133" y="526.5" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
