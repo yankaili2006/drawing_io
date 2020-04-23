@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T07:24:41.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="WbPuuUpWww9qrJmzC0BS" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-23T07:45:02.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="8wJ0tt5Pzso41Lrzaavh" version="13.0.1" type="github">
   <diagram id="IDo3e-sVRfWPB8tgrpqy" name="Page-1">
     <mxGraphModel dx="1426" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,32 +8,32 @@
           <mxGeometry x="440" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-5" value="Master" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="590" y="240" width="100" height="30" as="geometry" />
+          <mxGeometry x="607" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-7" value="" style="edgeStyle=none;dashed=1;html=1;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="VchNmsLGofExgvG7CdDW-5" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="890" as="targetPoint" />
+            <mxPoint x="657" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-8" value="TL每周合并" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="518" as="sourcePoint" />
-            <mxPoint x="640" y="518" as="targetPoint" />
+            <mxPoint x="660" y="518" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-10" value="" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;endFill=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="483" as="sourcePoint" />
+            <mxPoint x="660" y="483" as="sourcePoint" />
             <mxPoint x="490" y="483" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-34" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VchNmsLGofExgvG7CdDW-10">
           <mxGeometry x="0.1067" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-17" value="Product" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="741" y="240" width="100" height="30" as="geometry" />
+          <mxGeometry x="796" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-25" value="" style="shape=rect;html=1;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="330" y="300" width="20" height="50" as="geometry" />
@@ -56,26 +56,26 @@
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-30" value="产品定时发布" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="645" as="sourcePoint" />
-            <mxPoint x="790" y="645" as="targetPoint" />
+            <mxPoint x="657" y="645" as="sourcePoint" />
+            <mxPoint x="840" y="645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-35" value="" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;endFill=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="615" as="sourcePoint" />
-            <mxPoint x="640" y="615" as="targetPoint" />
+            <mxPoint x="840" y="615" as="sourcePoint" />
+            <mxPoint x="657" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-36" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VchNmsLGofExgvG7CdDW-35">
           <mxGeometry x="0.1067" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-39" value="company.project/module/branch-tag-version" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="320" width="250" height="20" as="geometry" />
+        <mxCell id="VchNmsLGofExgvG7CdDW-39" value="company.project/module/branch-tag-vA.B.C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="320" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-40" value="tsingj.privpy/es/dev-build20200424-v1.0.0.tgz&lt;br&gt;tsingj.privpy/tc/dev-build20200424-v1.0.0.tgz&lt;br&gt;tsingj.privpy/ds/dev-build0424-v1.0.0.tgz&lt;br&gt;tsingj.console/tm-service/dev-build0424-v1.0.1.tgz&lt;br&gt;tsingj.console/miniws/dev-build0424-v1.0.1.tgz&lt;br&gt;tsingj.datamarket/backend/dev-build0424-v1.0.1.tgz" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1116" y="380" width="290" height="90" as="geometry" />
+          <mxGeometry x="1133" y="380" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-41" value="bugfix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="561.5" width="50" height="20" as="geometry" />
@@ -105,46 +105,46 @@
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-54" value="" style="edgeStyle=none;dashed=1;html=1;endArrow=none;" edge="1" parent="1" source="VchNmsLGofExgvG7CdDW-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="791" y="890" as="targetPoint" />
-            <mxPoint x="791" y="270" as="sourcePoint" />
+            <mxPoint x="846" y="890" as="targetPoint" />
+            <mxPoint x="846" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-55" value="Hotfix" style="shape=rect;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="900" y="240" width="100" height="30" as="geometry" />
+          <mxGeometry x="995" y="237.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-56" value="" style="edgeStyle=none;dashed=1;html=1;endArrow=none;" edge="1" parent="1" source="VchNmsLGofExgvG7CdDW-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="908" as="targetPoint" />
-            <mxPoint x="950" y="288" as="sourcePoint" />
+            <mxPoint x="1045" y="905.5" as="targetPoint" />
+            <mxPoint x="1045" y="285.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-57" value="bugfix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="682" width="50" height="20" as="geometry" />
+          <mxGeometry x="1055" y="679.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-58" value="" style="shape=rect;html=1;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="940" y="667" width="20" height="50" as="geometry" />
+          <mxGeometry x="1035" y="664.5" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-59" value="" style="edgeStyle=none;dashed=1;html=1;endArrow=none;" edge="1" parent="1" source="VchNmsLGofExgvG7CdDW-55" target="VchNmsLGofExgvG7CdDW-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="810" as="targetPoint" />
-            <mxPoint x="950" y="270" as="sourcePoint" />
+            <mxPoint x="1045" y="807.5" as="targetPoint" />
+            <mxPoint x="1045" y="267.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-60" value="" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;endFill=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="757" as="sourcePoint" />
-            <mxPoint x="950" y="757" as="targetPoint" />
+            <mxPoint x="845" y="757" as="sourcePoint" />
+            <mxPoint x="1040" y="757" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-61" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VchNmsLGofExgvG7CdDW-60">
           <mxGeometry x="0.1067" y="-3" relative="1" as="geometry">
-            <mxPoint x="-9" y="-12" as="offset" />
+            <mxPoint x="31" y="-14.5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-62" value="push" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="788" as="sourcePoint" />
-            <mxPoint x="790" y="788" as="targetPoint" />
+            <mxPoint x="1040" y="788" as="sourcePoint" />
+            <mxPoint x="845" y="788" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-63" value="" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;endFill=1;dashed=1;" edge="1" parent="1">
@@ -184,37 +184,37 @@
             <mxPoint x="489" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-76" value="master版本发布" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-76" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;master版本发布vA.X.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="558" as="sourcePoint" />
+            <mxPoint x="657" y="558" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="680" y="558" />
-              <mxPoint x="680" y="588" />
+              <mxPoint x="697" y="558" />
+              <mxPoint x="697" y="588" />
             </Array>
-            <mxPoint x="640" y="588" as="targetPoint" />
+            <mxPoint x="657" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-77" value="product版本发布" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-77" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;product版本发布vX.X.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="677" as="sourcePoint" />
+            <mxPoint x="845" y="677" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="830" y="677" />
-              <mxPoint x="830" y="707" />
+              <mxPoint x="885" y="677" />
+              <mxPoint x="885" y="707" />
             </Array>
-            <mxPoint x="790" y="707" as="targetPoint" />
+            <mxPoint x="845" y="707" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-78" value="product版本发布" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-78" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;product版本发布vX.X.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="818" as="sourcePoint" />
+            <mxPoint x="845" y="818" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="830" y="818" />
-              <mxPoint x="830" y="848" />
+              <mxPoint x="885" y="818" />
+              <mxPoint x="885" y="848" />
             </Array>
-            <mxPoint x="790" y="848" as="targetPoint" />
+            <mxPoint x="845" y="848" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VchNmsLGofExgvG7CdDW-81" value="dev版本发布" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="VchNmsLGofExgvG7CdDW-81" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;dev版本发布vA.B.X&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fillColor=#00CC00;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="420" as="sourcePoint" />
             <Array as="points">
@@ -225,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-82" value="tsingj.privpy/es:dev-build0424-v1.0.1&lt;br&gt;tsingj.console/tm-service:dev-build0424-v1.0.1&lt;br&gt;tsingj.datamarket/backend:dev-build0424-v1.0.1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1116" y="511.5" width="270" height="50" as="geometry" />
+          <mxGeometry x="1133" y="511.5" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
