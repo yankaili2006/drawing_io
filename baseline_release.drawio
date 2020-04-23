@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-23T09:45:31.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="oLxVhX_IHvDENByXUpcZ" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-23T09:46:18.764Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36" etag="uGvlOIfgjGtAed5IfQqA" version="13.0.1" type="github">
   <diagram id="IDo3e-sVRfWPB8tgrpqy" name="Page-1">
     <mxGraphModel dx="1188" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,10 +93,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-57" value="bugfix" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="679.5" width="50" height="20" as="geometry" />
+          <mxGeometry x="870" y="616.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-58" value="" style="shape=rect;html=1;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="850" y="664.5" width="20" height="50" as="geometry" />
+          <mxGeometry x="850" y="601.5" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-59" value="" style="edgeStyle=none;dashed=1;html=1;endArrow=none;" edge="1" parent="1" source="VchNmsLGofExgvG7CdDW-55" target="VchNmsLGofExgvG7CdDW-58">
           <mxGeometry relative="1" as="geometry">
@@ -106,8 +106,8 @@
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-60" value="" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;endFill=1;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="757" as="sourcePoint" />
-            <mxPoint x="855" y="757" as="targetPoint" />
+            <mxPoint x="660" y="694" as="sourcePoint" />
+            <mxPoint x="855" y="694" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-61" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VchNmsLGofExgvG7CdDW-60">
@@ -117,8 +117,8 @@
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-62" value="push" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="855" y="788" as="sourcePoint" />
-            <mxPoint x="660" y="788" as="targetPoint" />
+            <mxPoint x="855" y="725" as="sourcePoint" />
+            <mxPoint x="660" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-63" value="" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;endSize=12;endFill=1;dashed=1;" edge="1" parent="1">
@@ -170,12 +170,12 @@
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-78" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;product版本发布&lt;br&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="818" as="sourcePoint" />
+            <mxPoint x="660" y="755" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="700" y="818" />
-              <mxPoint x="700" y="848" />
+              <mxPoint x="700" y="755" />
+              <mxPoint x="700" y="785" />
             </Array>
-            <mxPoint x="660" y="848" as="targetPoint" />
+            <mxPoint x="660" y="785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VchNmsLGofExgvG7CdDW-81" value="&lt;span style=&quot;background-color: rgb(0 , 204 , 0)&quot;&gt;dev版本发布&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fillColor=#00CC00;" edge="1" parent="1">
