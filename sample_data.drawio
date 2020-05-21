@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2020-05-21T06:04:18.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="JGSUAC0T8uDKqE0AC_jv" version="13.1.3" type="github"><diagram id="18uPsYCW1CXx2MfYo5Co" name="Page-1">5Vhbb9owFP41fgTFcS7OI4HQTVq1Sd3U9dFNXIgUCHJCgf76HScOieNCqWhh2iQk7GP7xP78nZsRGS+2N4Kt5rd5wjNkW8kWkQmybYypB39SsqslHvFrwUykiZrUCu7SF66ElpKu04QX2sQyz7MyXenCOF8ueVxqMiZEvtGnPeWZ/tUVm3FDcBezzJTep0k5r6XU9lv5F57O5s2XsRfUIwvWTFYnKeYsyTcdEYkQGYs8L+vWYjvmmQSvwaVeNz0wut+Y4MvylAWEx86GxJvveHAf/kyEH94vB0rLM8vW6sAo8lDgotCSDTpBowhFPgrCqgHyiRyVc8ZyFCR0hEZKTVHuGtxEvl4mXH4aIxJu5mnJ71YslqMbYArI5uUiU8NqE1yUfHvwdHiPGZCN5wteih1MaRa4CmbFM0JUf9PeGrYUGeedG2vWMUWU2V51iyU0FJzvgJYa0K5E+rzaoYhKLAEzwBUaga/gDEdSEsKQc3U4PdyDE18bTteA8+ft1WEiwd8Gk23A9HUSXR8nD2s4YfvaOGHT84HrI4haiOLKrU1RAI2glkyi8NdNZblTFFYGG2JEbQNYvkxGMupAL85YUaSxjiXgJXa/oWMNbbfpP8h+05lstd6u6W3Tsl7nqt5DoxLa7SLZadbUu+OJEeF61wYhlYkZL9+yvoPXaw0xsfQbHtiuccPNZb52wYJnrEyf9Z2+dutqEz/yFM6w34GDHZ1gfk9Fka9FzNWqbpQ0FHlDV1Nl91XVYB1R1UzMn54Krs2pqLrH7wz2mmaOO+w1aCobQOlQDakI3ovygYzykK9J8tMqLFEZpUZUSgIb0TFsm6HIQeG0Cl+e/Bioe7cR7Llsn07mjuW8y3BON4KaIm/71jeN5bgvtIbED/BFjaOfGwU9r3qqcbhWT5HTU/SmaShFg94ZPtFSiGEpZzhtjXgtDz+feu6J1KOvU+8/4RncItt1pq3khOJTaOUYtCKaAwbPSklVMEF55FVOM5S/gwWTpMk39gjls8Y9lqWzpSQmUIYLEMg8LIX6dKQGFmmSSB2h4EX6wh4rfZJ96vCg3A2ROzmWyKniWS1G+5K1y9Qj1nXQ1Q2soUN7acGHMM3Woz29mDfxP9KbvC+QNVETd0Jmmw2emwF+WPC7qgfql637OuNSHujDiBYYRHM1/0KjKsGr6xTvtTcFX7qbgFSZXiTfF/4Nj+Mf9TiQUmKs5+8Dch61LuBVzKci5+hlG8EELhsaoVfl5NWqM7yS/0n59ZlF5kCWC/13BBUHLpTf9IIZ9q+WR59DSui2r8719PbtnkR/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-21T07:01:31.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="EQ1lrLX51cjlOcmyzgBq" version="13.1.3" type="github">
+  <diagram id="18uPsYCW1CXx2MfYo5Co" name="Page-1">
+    <mxGraphModel dx="1186" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-1" value="数据目录服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="310" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-8" value="privpy计算机群" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="608" y="309" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-5" value="TM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="388" y="309" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-2" value="IDE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="361" y="120" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-11" value="3、发送DEBUG请求" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="3ec4w3cwO1-WBTdr7BWn-5" edge="1">
+          <mxGeometry x="0.1301" y="-25" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="171" as="sourcePoint" />
+            <mxPoint x="416.5" y="271" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-12" value="2、请求数据集列表和meta信息，&lt;br&gt;请求类型为测试数据" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3ec4w3cwO1-WBTdr7BWn-2" target="3ec4w3cwO1-WBTdr7BWn-1" edge="1">
+          <mxGeometry x="0.5591" y="1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="390" as="sourcePoint" />
+            <mxPoint x="500" y="340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-13" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3ec4w3cwO1-WBTdr7BWn-5" target="3ec4w3cwO1-WBTdr7BWn-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="390" as="sourcePoint" />
+            <mxPoint x="500" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-14" value="4、调度任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3ec4w3cwO1-WBTdr7BWn-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.48" y="-2" relative="1" as="geometry">
+            <mxPoint x="24" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-17" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="3ec4w3cwO1-WBTdr7BWn-2" target="3ec4w3cwO1-WBTdr7BWn-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="120" as="sourcePoint" />
+            <mxPoint x="500" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-19" value="6、获取计算结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3ec4w3cwO1-WBTdr7BWn-17" vertex="1" connectable="0">
+          <mxGeometry x="0.2115" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ec4w3cwO1-WBTdr7BWn-18" value="5、获取任务状态" style="endArrow=classic;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" target="3ec4w3cwO1-WBTdr7BWn-5" edge="1">
+          <mxGeometry x="-0.2561" y="14" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448" y="170" as="sourcePoint" />
+            <mxPoint x="500" y="340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kIlI5BIzw73iB4UpW1K1-2" value="DS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="444" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIlI5BIzw73iB4UpW1K1-5" value="1、sample数据注册到目录服务" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIlI5BIzw73iB4UpW1K1-2" target="3ec4w3cwO1-WBTdr7BWn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
