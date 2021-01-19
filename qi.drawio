@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T08:21:00.474Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QjKQcs_f3Tttoc8gd1cG" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T08:26:49.551Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="dwYXMemCd8B2BozgYU8x" version="14.2.4" type="github">
   <diagram id="n4bqpxJSWs9qwXVAG9Ya" name="Page-1">
     <mxGraphModel dx="1178" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mM_YQbost569z2JuP5jB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;shadow=0;glass=0;sketch=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="750" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_YQbost569z2JuP5jB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;shadow=0;glass=0;sketch=0;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="230" height="350" as="geometry" />
+        </mxCell>
         <mxCell id="DG4rs8WNzXxtl_6SsIYO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DG4rs8WNzXxtl_6SsIYO-1" target="DG4rs8WNzXxtl_6SsIYO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -56,6 +62,12 @@
           <mxGeometry x="-0.1314" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mM_YQbost569z2JuP5jB-4" value="&lt;font color=&quot;#000000&quot;&gt;陆金所&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="660" y="730" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mM_YQbost569z2JuP5jB-5" value="&lt;font color=&quot;#000000&quot;&gt;互金协会&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
