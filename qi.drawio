@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T08:19:38.514Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="-okuhN-TLBejUIxU9NDd" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T08:21:00.474Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QjKQcs_f3Tttoc8gd1cG" version="14.2.4" type="github">
   <diagram id="n4bqpxJSWs9qwXVAG9Ya" name="Page-1">
     <mxGraphModel dx="1178" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DG4rs8WNzXxtl_6SsIYO-12" value="1、订单通知；&lt;br&gt;5、订单完成通知；" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#EA6B66;" parent="DG4rs8WNzXxtl_6SsIYO-11" vertex="1" connectable="0">
+        <mxCell id="DG4rs8WNzXxtl_6SsIYO-12" value="1、订单创建通知；&lt;br&gt;5、订单完成通知；" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#EA6B66;" parent="DG4rs8WNzXxtl_6SsIYO-11" vertex="1" connectable="0">
           <mxGeometry x="-0.1314" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
