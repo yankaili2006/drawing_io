@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T02:41:45.281Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="PmgNGa0c4zlBYpRHIO1k" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T02:43:45.984Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="oR9kbrBADqjyGMDfhMIO" version="14.2.4" type="github">
   <diagram id="n4bqpxJSWs9qwXVAG9Ya" name="Page-1">
     <mxGraphModel dx="1178" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,13 +89,13 @@
         <mxCell id="YI6fKssbPlR63zoKONYq-1" value="业务平台Nginx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="540" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YI6fKssbPlR63zoKONYq-2" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DG4rs8WNzXxtl_6SsIYO-8" target="YI6fKssbPlR63zoKONYq-1">
+        <mxCell id="YI6fKssbPlR63zoKONYq-2" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CC66;" edge="1" parent="1" source="DG4rs8WNzXxtl_6SsIYO-8" target="YI6fKssbPlR63zoKONYq-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="640" as="sourcePoint" />
             <mxPoint x="440" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YI6fKssbPlR63zoKONYq-4" value="1、发起订单请求；&lt;br&gt;5、更新订单状态；" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YI6fKssbPlR63zoKONYq-2">
+        <mxCell id="YI6fKssbPlR63zoKONYq-4" value="1、发起订单请求；&lt;br&gt;5、更新订单状态；" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC66;" vertex="1" connectable="0" parent="YI6fKssbPlR63zoKONYq-2">
           <mxGeometry x="0.1128" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
