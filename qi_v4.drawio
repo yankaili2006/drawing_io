@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T06:35:58.111Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="gl_vjxj7mreP-jy4jIDL" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T06:47:14.484Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="MCvZmfbNiIdZDwr7GDr7" version="14.2.6" type="github">
   <diagram id="n4bqpxJSWs9qwXVAG9Ya" name="Page-1">
     <mxGraphModel dx="1178" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mM_YQbost569z2JuP5jB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;shadow=0;glass=0;sketch=0;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="670" y="601" width="150" height="100" as="geometry" />
+          <mxGeometry x="850" y="460" width="150" height="241" as="geometry" />
         </mxCell>
         <mxCell id="mM_YQbost569z2JuP5jB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;shadow=0;glass=0;sketch=0;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="250" y="510" width="260" height="350" as="geometry" />
+          <mxGeometry x="250" y="460" width="260" height="400" as="geometry" />
         </mxCell>
         <mxCell id="DG4rs8WNzXxtl_6SsIYO-1" value="QI运营平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="540" width="80" height="45" as="geometry" />
+          <mxGeometry x="320" y="478" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DG4rs8WNzXxtl_6SsIYO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DG4rs8WNzXxtl_6SsIYO-2" target="DG4rs8WNzXxtl_6SsIYO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DG4rs8WNzXxtl_6SsIYO-2" value="互金协会平台运营人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="345" y="400" width="30" height="60" as="geometry" />
+          <mxGeometry x="345" y="340" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DG4rs8WNzXxtl_6SsIYO-4" value="互金协会ES计算集群" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="785" width="170" height="60" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="DG4rs8WNzXxtl_6SsIYO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DG4rs8WNzXxtl_6SsIYO-5" target="DG4rs8WNzXxtl_6SsIYO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bDG2FsvXffJ-2tiCheh7-11" value="2.2任务分发和调度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DG4rs8WNzXxtl_6SsIYO-7" vertex="1" connectable="0">
+        <mxCell id="bDG2FsvXffJ-2tiCheh7-11" value="4.2任务分发和调度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DG4rs8WNzXxtl_6SsIYO-7" vertex="1" connectable="0">
           <mxGeometry x="0.5738" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-10" as="offset" />
           </mxGeometry>
@@ -34,18 +34,18 @@
           <mxGeometry x="320" y="711" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DG4rs8WNzXxtl_6SsIYO-8" value="陆金所DS SDK" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="685" y="621" width="120" height="60" as="geometry" />
+          <mxGeometry x="870" y="621" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mM_YQbost569z2JuP5jB-4" value="&lt;font color=&quot;#000000&quot;&gt;陆金所&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="765" y="581" width="50" height="20" as="geometry" />
+          <mxGeometry x="850" y="440" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mM_YQbost569z2JuP5jB-5" value="&lt;font color=&quot;#000000&quot;&gt;互金协会&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="250" y="490" width="60" height="20" as="geometry" />
+          <mxGeometry x="250" y="440" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bDG2FsvXffJ-2tiCheh7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bDG2FsvXffJ-2tiCheh7-1" target="DG4rs8WNzXxtl_6SsIYO-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bDG2FsvXffJ-2tiCheh7-10" value="3.1请求路由" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bDG2FsvXffJ-2tiCheh7-3" vertex="1" connectable="0">
+        <mxCell id="bDG2FsvXffJ-2tiCheh7-10" value="4.1请求路由" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bDG2FsvXffJ-2tiCheh7-3" vertex="1" connectable="0">
           <mxGeometry x="0.4074" y="-2" relative="1" as="geometry">
             <mxPoint y="-8" as="offset" />
           </mxGeometry>
@@ -59,7 +59,7 @@
             <mxPoint x="440" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bDG2FsvXffJ-2tiCheh7-7" value="3、提交任务；" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bDG2FsvXffJ-2tiCheh7-6" vertex="1" connectable="0">
+        <mxCell id="bDG2FsvXffJ-2tiCheh7-7" value="4、提交QI查询任务；" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bDG2FsvXffJ-2tiCheh7-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0273" y="-3" relative="1" as="geometry">
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
@@ -70,7 +70,7 @@
             <mxPoint x="431" y="783" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bDG2FsvXffJ-2tiCheh7-13" value="4.1传输数据&lt;br&gt;5.1获取结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bDG2FsvXffJ-2tiCheh7-8" vertex="1" connectable="0">
+        <mxCell id="bDG2FsvXffJ-2tiCheh7-13" value="5.1传输数据&lt;br&gt;6.1获取结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bDG2FsvXffJ-2tiCheh7-8" vertex="1" connectable="0">
           <mxGeometry x="0.0354" relative="1" as="geometry">
             <mxPoint x="11" as="offset" />
           </mxGeometry>
@@ -81,21 +81,21 @@
             <mxPoint x="440" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bDG2FsvXffJ-2tiCheh7-12" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;4、获取任务，单向数据传输；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;5、获取结果；&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="bDG2FsvXffJ-2tiCheh7-9" vertex="1" connectable="0">
+        <mxCell id="bDG2FsvXffJ-2tiCheh7-12" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;5、获取任务，单向数据传输；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;6、获取结果、资源消耗、订单状态；&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="bDG2FsvXffJ-2tiCheh7-9" vertex="1" connectable="0">
           <mxGeometry x="-0.0756" relative="1" as="geometry">
             <mxPoint y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YI6fKssbPlR63zoKONYq-1" value="业务平台Nginx" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="540" width="80" height="45" as="geometry" />
+          <mxGeometry x="414" y="478" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YI6fKssbPlR63zoKONYq-2" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CC66;" parent="1" source="DG4rs8WNzXxtl_6SsIYO-8" target="YI6fKssbPlR63zoKONYq-1" edge="1">
+        <mxCell id="YI6fKssbPlR63zoKONYq-2" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CC66;" parent="1" source="9L2DLmK0K8V_CgdOmwuY-1" target="YI6fKssbPlR63zoKONYq-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="640" as="sourcePoint" />
             <mxPoint x="440" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YI6fKssbPlR63zoKONYq-4" value="1、查询可用DS列表以及价格；&lt;br&gt;2、发起订单请求；&lt;br&gt;5、通知给运营平台：结果、资源消耗、订单状态；" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC66;labelBackgroundColor=none;" parent="YI6fKssbPlR63zoKONYq-2" vertex="1" connectable="0">
+        <mxCell id="YI6fKssbPlR63zoKONYq-4" value="1、查询可用DS列表；&lt;br&gt;2、选定数据方，查询价格；&lt;br&gt;3、发起订单请求；&lt;br&gt;7、通知给运营平台：结果、资源消耗、订单状态；" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC66;labelBackgroundColor=none;" parent="YI6fKssbPlR63zoKONYq-2" vertex="1" connectable="0">
           <mxGeometry x="0.1128" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -105,6 +105,17 @@
             <mxPoint x="390" y="640" as="sourcePoint" />
             <mxPoint x="440" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9L2DLmK0K8V_CgdOmwuY-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9L2DLmK0K8V_CgdOmwuY-1" target="DG4rs8WNzXxtl_6SsIYO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9L2DLmK0K8V_CgdOmwuY-3" value="3、发起QI查询任务；&lt;br&gt;6.1、获取任务任务、资源消耗、订单状态；" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="9L2DLmK0K8V_CgdOmwuY-2">
+          <mxGeometry x="-0.3636" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9L2DLmK0K8V_CgdOmwuY-1" value="陆金所业务后台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="470.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
