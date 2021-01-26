@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-01-26T08:34:24.873Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="FVGRsPKUu4sj_o8bWWyd" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-26T08:36:15.137Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="unL6xzJnE9zYPypUV1sg" version="14.2.7" type="github">
   <diagram id="YXZVXIIgtDqCSdMB-Rmm" name="Page-1">
     <mxGraphModel dx="1178" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jib970l90Mzl68ny4eWo-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jib970l90Mzl68ny4eWo-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jib970l90Mzl68ny4eWo-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="180" height="240" as="geometry" />
+        </mxCell>
         <mxCell id="jib970l90Mzl68ny4eWo-1" value="隐私计算平台TM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -39,6 +48,15 @@
             <mxPoint x="390" y="390" as="sourcePoint" />
             <mxPoint x="440" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jib970l90Mzl68ny4eWo-10" value="互金协会" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jib970l90Mzl68ny4eWo-12" value="陆金所" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jib970l90Mzl68ny4eWo-13" value="平安银行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
